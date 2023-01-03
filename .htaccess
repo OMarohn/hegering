@@ -1,0 +1,5 @@
+RedirectMatch 301 (.*)/pageID_17054376.html $1/index.html
+RedirectMatch 301 (.*)/pageID_17054378.html $1/vorstand.html
+RedirectMatch 301 (.*)/pageID_17062109.html $1/mitglied-werden.html
+RedirectMatch 301 (.*)/pageID_17054380.html $1/termine.html
+RedirectMatch 301 (.*)/pageID_17731079.html $1/treibjagden.html

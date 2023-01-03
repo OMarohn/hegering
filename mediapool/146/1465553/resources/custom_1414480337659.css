@@ -1,0 +1,56 @@
+
+/* ************************************************ */
+/* Design Css for Color: design286.css */
+
+/* body { background-color:#FFFFFF;margin:0;padding:0; } */
+/* td,p { font-size:12px;color:#000000; } */
+.bk { background-color:#FFFFFF; }
+.bot { font-size:12px;;margin-left:10px;margin-right:15px;color:#ffffff; }
+.bgb { background-color:#626816; }
+.tdbg { background-color:#ffffff; }
+
+
+
+
+/* ************************************************ */
+/* Custom Css Part */
+
+html {
+    overflow:auto;
+}
+body {
+    background: #FFFFFF url(../../../../designs/design286/color1/images/body_bg_rep.gif) repeat-x;
+    padding: 0;
+    margin: 0;
+}
+* html body { height: 100%; width: 100%; overflow:auto; }
+#body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    color: #000000;
+    background: #FFFFFF url(../../../../designs/design286/color1/images/body_bg_rep.gif) repeat-x;
+    display: table;
+}
+* html #body { height: 100%; width: 100%; overflow:auto; }
+#body td {font-size: 12px;font-family: Arial, Helvetica, sans-serif;color: #000000;}
+#body p {font-size: 12px;color: #000000;}
+#body .bot, #body .bot td, #body .bot p, #body div .bot #totop, #body td .bot #totop{
+font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #FFFFFF;
+}
+p {
+    margin-top: 0.0em;
+    margin-bottom: 0.0em;
+}
+#body a, #body a:visited, #body a.pager, #body a.pager:visited {
+color: #217AAD;
+    text-decoration: none;
+}
+#body a.totop, #body a.totop:visited, #body a.totop:hover {
+    color: #217AAD;
+    text-decoration: none;
+}
+#body a:hover, #body a.pager:hover {
+    text-decoration: underline;
+}
+object.videoObject {display: none;}*+html object.videoObject {display: block;}* html object.videoObject {display: block;}embed.videoEmbed {display: block;}*+html embed.videoEmbed {display: none;}* html embed.videoEmbed {display: none;}

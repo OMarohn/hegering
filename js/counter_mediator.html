@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title></title></head>
+<html><body><script type="text/javascript">
+
+	var st = window.location.hash.toString();
+	(/#countervalue([0-9]{1,10})/).exec(st);
+
+	var value = RegExp.$1;
+	
+	try {
+		window.parent.parent.setCounter(value);
+	} catch(e){ }
+
+</script></body></html>
