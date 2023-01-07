@@ -8,7 +8,7 @@ header_menu: true
 
 Der Hegering Brake begrüßt Sie recht herzlich auf seinen Internetseiten! Hier erhalten Sie aktuelle Informationen über unseren Hegering, das Vereinsleben und die nächsten Veranstaltungen.
 
-Wir wurden 1938/39 in dem JAHRBUCH der Jagdbezirke Grafschaft Diepholz, Grafschaft Hoya, Grafschaft Schaumburg, Neustadt a. Rb. Nienburg/Weser im Jagdgau Hannover des Reichsbundes "Deutsche Jägerschaft" wie folgt erwähnt:
+Wir wurden 1938/39 in dem JAHRBUCH der Jagdbezirke Grafschaft Diepholz, Grafschaft Hoya, Grafschaft Schaumburg, Neustadt a. Rb., Nienburg/Weser im Jagdgau Hannover des Reichsbundes "Deutsche Jägerschaft" wie folgt erwähnt:
 
 Der Hegering BRAKE wurde **1935** gegründet
 
