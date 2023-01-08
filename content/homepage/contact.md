@@ -1,11 +1,15 @@
 ---
 title: "Kontakt"
-weight: 2
+weight: 5
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+Bernhard Winalke
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+Am Speckenbach 59
 
-Let us get in touch!
+27246 Borstel
+
+{{<icon class="fa fa-envelope">}}&nbsp;[bernhard.winalke@t-online.de](mailto:bernhard.winalke@t-online.de)
+
+{{<icon class="fa fa-phone">}}&nbsp;[+49 4276 223](tel:+494276223)

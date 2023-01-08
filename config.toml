@@ -1,4 +1,4 @@
-baseURL = "http://hegeringbrake.de"
+baseURL = "https://hegeringbrake.de"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -26,7 +26,7 @@ title = "Hegering Brake"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/pexels-aaron-j-hill-14778304.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
@@ -38,4 +38,4 @@ title = "Hegering Brake"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "hegering, brake, jagd, weidmannsheil"
+        keywords = "hegering, brake, jagd, weidmannsheil, diepholz, Bockhop, Borstel,Brake,Campen,Dienstborstel,Höpke,Maasen,Mellinghausen,Ohlendorf,Päpsen,Sieden,Siedenburg,Staffhorst,Harbergen"

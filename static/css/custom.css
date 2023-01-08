@@ -1,0 +1,21 @@
+/* Every post, on every page, gets this style on its <article> tag */
+.post {
+    position: relative;
+    width: 80%;
+    max-width: 900px;
+    margin: 0rem auto;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    height: 70%;
+    word-break: break-word;
+    hyphens: auto;
+}
+
+.odd  tr {
+    background-color:#b80135;
+} 
+
+.odd table tbody > tr:nth-child(odd) > td {
+    background-color: #9c012d;
+}
+
